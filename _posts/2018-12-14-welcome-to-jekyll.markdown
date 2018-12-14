@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to The Welch Lab"
 date:   2018-12-14 10:24:59 -0500
-categories: jekyll update
+categories: Website Update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome, we are currently in the process of setting up our University of Michigan, Welch Lab website!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our research aims to address fundamental problems in both biomedical research and computer science by developing new tools tailored to rapidly emerging high-throughput sequencing technologies. Broadly, we seek to understand what genes define the complement of cell types and cell states within healthy tissue, how cells differentiate to their final fates, and how dysregulation of genes within specific cell types contributes to human disease. As computational method developers, we seek to both employ and advance the methods of machine learning, particularly for unsupervised analysis of high-dimensional data.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Most recently, I have focused on developing open-source software for the processing, analysis, and modeling of single cell sequencing data. Key contributions in this area include SingleSplice, the first computational method for single cell splicing analysis; SLICER, an algorithm for inferring developmental trajectories; and MATCHER, the first method for integrating single cell transcriptomic and epigenomic data. I have applied these methods in collaboration with biological scientists to study stem cell differentiation, somatic cell reprogramming, and the brain.
