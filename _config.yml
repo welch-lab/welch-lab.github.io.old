@@ -16,13 +16,12 @@ theme: jekyll-theme-minimal
 title: Joshua D. Welch, PhD
 email: welchjd@med.umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Our research aims to address fundamental problems in both 
-  biomedical research and computer science by developing new tools tailored
-  to rapidly emerging high-throughput sequencing technologies.
+  Department of Computational Medicine and Bioinformatics 
+  University of Michigan Medical School
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  welch-lab
  # Build settings
 markdown: kramdown
 theme: minima
