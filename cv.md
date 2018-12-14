@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-##Education
+## Education
 
 Bachelor of Science in Computer Science with Specialization in Bioinformatics, Ohio University, major GPA: 4.0 (degree awarded June 2012)
 Bioinformatics Certificate, Ohio University, certificate GPA: 4.0 (certificate awarded June 2012)
@@ -14,7 +14,7 @@ Master of Science in Computer Science, The University of North Carolina at Chape
 
 Doctor of Philosophy in Computer Science, The University of North Carolina at Chapel Hill (July 2017)
 
-##Honors and Awards
+## Honors and Awards
 
 Horizon Award, UNC Graduate School (2017)
 ISMB 2016 Travel Fellowship
@@ -28,7 +28,7 @@ Outstanding Senior in Computer Science, Ohio University Russ College of Engineer
 Ohio University Concerto Competition Winner (2011)
 Outstanding Junior in Computer Science, Ohio University Russ College of Engineering (2009)
 
-##Graduate Courses
+## Graduate Courses
 
 BIOS 661 – Probability and Statistical Inference
 BCB 716 – Sequence Analysis
@@ -43,7 +43,7 @@ STOR 757 – Bayesian Statistics and Generalized Linear Models
 CompSci 590 – Computational Structural Biology (Duke)
 CompSci 662 – Computational Systems Biology (Duke)
 
-##Service and Outreach
+## Service and Outreach
 
 President, Computer Science Student Association, UNC Chapel Hill (2014-2015)
 Volunteer, North Carolina DNA Day (2013-2016)
