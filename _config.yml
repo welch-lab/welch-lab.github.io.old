@@ -16,8 +16,8 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Our research aims to address fundamental problems in both biomedical research and computer science by developing new tools tailored to rapidly emerging high-throughput sequencing technologies.
-baseurl: "" # the subpath of your site, e.g. /blog
+Description here.
+"" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
