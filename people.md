@@ -4,4 +4,4 @@ title: People
 permalink: /people/
 ---
 
-Welch lab people page content here. 
+![Welch Lab]({{ site.baseurl }}/images/welch-lab.jpg "Welch Lab")
