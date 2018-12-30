@@ -15,3 +15,6 @@ SLICER (Selective Locally Linear Inference of Cellular Expression Relationships)
 
 MATCHER (Manifold Alignment to Characterize Experimental Relationships)
 [https://github.com/jw156605/MATCHER](https://github.com/jw156605/MATCHER)
+
+LIGER (Linked Inference of Genomic Experimental Relationships)
+[https://github.com/MacoskoLab/liger](https://github.com/MacoskoLab/liger)
