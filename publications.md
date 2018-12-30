@@ -4,7 +4,8 @@ title: Publications
 permalink: /publicatons/
 ---
 
-
+Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*.Integrative inference of brain cell similarities and differences from single-cell genomics. bioRxiv 2018. https://doi.org/10.1101/459891  
+\*Co-corresponding
 
 Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 \[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954984/pdf/nihms908332.pdf)\]
 *Equal contribution
