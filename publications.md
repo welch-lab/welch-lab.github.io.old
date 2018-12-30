@@ -27,7 +27,7 @@ Welch JD, Hu Y, Prins JF. Robust Detection of Alternative Splicing in a Populati
 
 Brooks L, Lyons SM, Mahoney JM, Welch JD, Liu Z, Marzluff WM, Whitfield ML. A multi-protein occupancy map of the mRNP on the 3′ end of histone mRNAs. RNA 2015. \[[PDF](https://rnajournal.cshlp.org/content/21/11/1943.full.pdf+html)\]
 
-Welch JD*, Slevin MK*, Tatomer D, Duronio RJ, Prins JF, Marzluff WF. EnD-Seq and AppEnD: Sequencing 3′ ends to identify nontemplated tails and degradation intermediates. RNA 2015. \[[PDF](https://rnajournal.cshlp.org/content/21/7/1375.full.pdf+html)\]
+Welch JD\*, Slevin MK\*, Tatomer D, Duronio RJ, Prins JF, Marzluff WF. EnD-Seq and AppEnD: Sequencing 3′ ends to identify nontemplated tails and degradation intermediates. RNA 2015. \[[PDF](https://rnajournal.cshlp.org/content/21/7/1375.full.pdf+html)\]
 *Equal contribution
 
 Welch JD, Baran-Gale J, Perou C, Sethupathy P, Prins JF. Pseudogenes Transcribed in Breast Invasive Carcinoma Show Subtype-Specific Expression and ceRNA Potential. BMC Genomics 2015. \[[PDF](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-015-1227-8)\]
