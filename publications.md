@@ -40,27 +40,3 @@ word-based genomic signatures. BMC Bioinformatics. 2010 Dec 21;11 Suppl 12:S6. [
 Lichtenberg J, Yilmaz A, Welch JD, Kurz K, Liang X, Drews F, Ecker K, Lee SS, Geisler M, Grotewold E, Welch LR. The word landscape of the non-coding segments of the Arabidopsis thaliana genome. BMC Genomics. 2009 Oct 8;10:463. [PDF]
 
 Lichtenberg J, Jacox E, Welch JD, Kurz K, Liang X, Yang MQ, Drews F, Ecker K, Lee SS, Elnitski L, Welch LR. Word-based characterization of promoters involved in human DNA repair pathways. BMC Genomics. 2009 Jul 7;10 Suppl 1:S18. [PDF]
-
-Presentations
-
-Welch JD, Hu Y, Prins JF. Robust Detection of Alternative Splicing in a Population of Single Cells. ISMB 2016 (Highlights Track), Orlando, FL.
-
-Welch JD, Hu Y, Prins JF. Robust Detection of Alternative Splicing in a Population of Single Cells. Regulatory Genomics Special Interest Group (RegGen SIG), ISMB 2016, Orlando, FL.
-
-Welch JD, Liu Z, Wang L, Lu J, Lerou P, Purvis J, Qian L, Hartemink A, Prins JF. SLICER: Inferring Branched, Nonlinear Cellular Trajectories from Single Cell RNA-seq Data. RECOMB 2016, Santa Monica, CA.
-
-Welch, JD. Finding Life in High-Dimensional Space: Identifying Cell Types from Single Cell Gene Expression Data. Poster presented at NSF Data Science Workshop 2015, August 2015, Seattle, WA.
-
-Welch JD, Williams LA, DiSalvo M, Sims CE, Allbritton N, Prins JF, Yeh JJ, Jones CD. Selective Single Cell Isolation and RNA Sequencing Using Magnetic Microrafts. Talk presented at RNA 2015, May 2015, Madison, WI.
-
-Welch, JD. Decoding the Symbols of Life: Learning Cell Types and Properties from RNA Sequencing Data. Talk at Dagstuhl Seminar 14381, “Neural-Symbolic Learning and Reasoning”, September 2014. (See Dagstuhl ReportsVolume 4, 2014). [PDF]
-
-Welch JD, Slevin MK, Prins JF, Marzluff W. EnD-seq: A method for finding the 3’ ends of RNA molecules using next-generation sequencing with application to mRNA exonuclease degradation. Poster presented at Symposium on RNA Biology X, North Carolina RNA Society Meeting. October 2013, Chapel Hill, NC.
-
-Welch JD, Prins JF. Investigating the Role of Transcribed Pseudogenes in Breast Cancer. Poster presented at ISMB 2013 and RegGen SIG at ISMB, July 2013, Berlin, Germany.
-
-Students Supervised
-Andrew Cowan (SMART Scholar Program)
-Bruce Wei (BIOL 395 undergraduate research)
-Noah Legall (BIOL 395 undergraduate research, Chancellor’s Science Scholar’s Program)
-Richard Clayton (Chancellor’s Science Scholar’s Program)
