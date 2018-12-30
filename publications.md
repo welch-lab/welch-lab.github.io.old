@@ -4,7 +4,9 @@ title: Publications
 permalink: /publicatons/
 ---
 
-Liu Z*,	Wang L*, Welch JD*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 [HTML]
+
+
+Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 [HTML]
 *Equal contribution
 
 Welch JD, Hartemink AJ, Prins JF. MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics. Genome Biology 2017. 18:138. [PDF]
