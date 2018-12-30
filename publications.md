@@ -4,6 +4,8 @@ title: Publications
 permalink: /publicatons/
 ---
 
+\[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
+
 Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*. Integrative inference of brain cell similarities and differences from single-cell genomics. bioRxiv 2018. https://doi.org/10.1101/459891  
 \*Co-corresponding
 
