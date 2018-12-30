@@ -6,7 +6,7 @@ permalink: /publicatons/
 
 
 
-Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954984/pdf/nihms908332.pdf)
+Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 \[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954984/pdf/nihms908332.pdf)\]
 *Equal contribution
 
 Welch JD, Hartemink AJ, Prins JF. MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics. Genome Biology 2017. 18:138. [PDF](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1269-0)
@@ -14,7 +14,7 @@ Welch JD, Hartemink AJ, Prins JF. MATCHER: manifold alignment reveals correspond
 
 Lackey P, Welch JD, Marzluff WM. TUT7 Catalyzes the Uridylation of the 3’ End of Histone mRNA for Rapid Degradation. RNA 2016. doi:10.1261/rna.058107.116 [PDF](https://rnajournal.cshlp.org/content/22/11/1673.full.pdf+html)
 
-Welch JD*, Williams LA*, DiSalvo M*, Brandt AT, Marayati R, Sims CE, Allbritton NL, Prins JF, Yeh JJ, Jones CD. Selective Single Cell Isolation for Genomics Using Microraft Arrays. Nucleic Acids Research 2016. doi: 10.1093/nar/gkw700 [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041489/pdf/gkw700.pdf)
+Welch JD\*, Williams LA\*, DiSalvo M\*, Brandt AT, Marayati R, Sims CE, Allbritton NL, Prins JF, Yeh JJ, Jones CD. Selective Single Cell Isolation for Genomics Using Microraft Arrays. Nucleic Acids Research 2016. doi: 10.1093/nar/gkw700 \[[PDF]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041489/pdf/gkw700.pdf)
 *Equal contribution
 
 Lyons SM, Cunningham CH, Welch JD, Groh B, Guo AY, Wei B, Whitfield ML, Xiong Y, Marzluff WF. A subset of replication-dependent histone mRNAs are expressed as polyadenylated RNAs in terminally differentiated tissues. Nucleic Acids Research 2016. doi: 10.1093/nar/gkw620 [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100578/pdf/gkw620.pdf)
