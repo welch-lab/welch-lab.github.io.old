@@ -13,4 +13,5 @@ From left to right: Hengshi Yu (PhD student), Shuze Wang (PIBS rotation student)
 ![Joshua Welch]({{ site.baseurl }}/images/welch.jpg)
 
 Joshua Welch, Ph.D.
+
 welchjd@med.umich.edu
