@@ -19,14 +19,14 @@ welchjd@med.umich.edu
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
 **Yuwei Bao**  
-Ph.D. Graduate Student
+DCMB/EECS Dual Master's Student
 
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
 **Hojae Lee**  
-Ph.D. Graduate Student
+EECS Ph.D. Student
 
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
 **Hengshi Yu**  
-P.D. Graduate Student
+Biostatistics Ph.D. Student
