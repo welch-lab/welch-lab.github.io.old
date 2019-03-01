@@ -6,14 +6,16 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
-Rodriques SG, Stickels RR, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F,
-Macosko EZ. Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution. bioRxiv 2019. http://dx.doi.org/10.1101/563395
+Rodriques SG*, Stickels RR*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+,
+Macosko EZ+. Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution. bioRxiv 2019. http://dx.doi.org/10.1101/563395
+\*Equal contribution
++Co-corresponding
 
 Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*. Integrative inference of brain cell similarities and differences from single-cell genomics. bioRxiv 2018. https://doi.org/10.1101/459891  
 \*Co-corresponding
 
 Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L. Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte. Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454 \[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954984/pdf/nihms908332.pdf)\]
-*Equal contribution
+\*Equal contribution
 
 Welch JD, Hartemink AJ, Prins JF. MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics. Genome Biology 2017. 18:138. \[[PDF](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1269-0)\]
 *Also accepted at RECOMB 2017 under the title “E Pluribus Unum: United States of Single Cells”.
