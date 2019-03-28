@@ -7,7 +7,8 @@ permalink: /publicatons/
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
 Rodriques SG\*, Stickels RR\*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+,
-Macosko EZ+. Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution. bioRxiv 2019. http://dx.doi.org/10.1101/563395
+Macosko EZ+. Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution. Science 29 Mar 2019:
+Vol. 363, Issue 6434, pp. 1463-1467 DOI: 10.1126/science.aaw1219 \[[PDF](http://science.sciencemag.org/content/sci/363/6434/1463.full.pdf)\]
 \*Equal contribution
 +Co-corresponding
 
