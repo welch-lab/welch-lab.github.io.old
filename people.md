@@ -19,7 +19,7 @@ welchjd@med.umich.edu
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
 **Yuwei Bao**  
-DCMB/EECS Dual Master's Student
+EECS Ph.D. Student
 
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
