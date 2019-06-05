@@ -10,8 +10,8 @@ permalink: /people/
 
 **Joshua Welch, Ph.D.**  
 Assistant Professor
-Department of Computational Medicine and Bioinformatics
-Department of Computer Science and Engineering
+Department of Computational Medicine and Bioinformatics\
+Department of Computer Science and Engineering\
 welchjd@med.umich.edu
 
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
