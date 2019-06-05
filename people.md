@@ -9,7 +9,7 @@ permalink: /people/
 ![Joshua Welch]({{ site.baseurl }}/images/welch.jpg)
 
 **Joshua Welch, Ph.D.**  
-Assistant Professor
+Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
 welchjd@med.umich.edu
