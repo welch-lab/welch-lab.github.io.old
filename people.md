@@ -12,7 +12,6 @@ permalink: /people/
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
-welchjd@med.umich.edu
 
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
