@@ -6,6 +6,9 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
+Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*. Single-cell multi-omic integration compares and contrasts features of brain cell identity. Cell 2019. https://doi.org/10.1016/j.cell.2019.05.006. \[[PDF](https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930504-5)\]  
+\*Co-corresponding 
+
 Rodriques SG\*, Stickels RR\*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+,
 Macosko EZ+. Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution. Science 29 Mar 2019:
 Vol. 363, Issue 6434, pp. 1463-1467 DOI: 10.1126/science.aaw1219 \[[PDF](http://science.sciencemag.org/content/sci/363/6434/1463.full.pdf)\]
