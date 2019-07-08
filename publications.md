@@ -8,7 +8,7 @@ permalink: /publicatons/
 
 Zhou Y, Liu Z, Welch JD, Gao X, Wang L, Garbutt T, Keepers B, Ma H, Prins JF, Shen W, Liu J, Qian L. Single-Cell Transcriptomic Analyses of Cell Fate Transitions during Human Cardiac Reprogramming. Cell Stem Cell. 2019 Jun 12. pii: S1934-5909(19)30224-3. doi: 10.1016/j.stem.2019.05.020. \[[HTML](https://www.sciencedirect.com/science/article/pii/S1934590919302243)\]
 
-Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*. Single-cell multi-omic integration compares and contrasts features of brain cell identity. Cell 2019. https://doi.org/10.1016/j.cell.2019.05.006. \[[PDF](https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930504-5)\]  
+Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*. Single-cell multi-omic integration compares and contrasts features of brain cell identity. Cell. 2019 Jun 13;177(7):1873-1887.e17. doi: 10.1016/j.cell.2019.05.006. Epub 2019 Jun 6. \[[PDF](https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930504-5)\]  
 \*Co-corresponding 
 
 Rodriques SG\*, Stickels RR\*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+,
