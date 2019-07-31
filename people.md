@@ -18,24 +18,29 @@ Department of Computer Science and Engineering<br/>
 **Yuwei Bao**  
 EECS Ph.D. Student
 
+**Chao Gao**  
+DCMB Ph.D. Student
+
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
 **Hojae Lee**  
-EECS Ph.D. Student
+EECS Ph.D. Candidate
 
 ![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
 
 **Ruohan Liao**
+Biostatistics MS Student
 
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
 **Jialin Liu**
+DCMB MS Student
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
 **Joshua Sodicoff**
-
+Data Science BS Student
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
 **Hengshi Yu**  
-Biostatistics Ph.D. Student
+Biostatistics Ph.D. Candidate
