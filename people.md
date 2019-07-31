@@ -40,6 +40,7 @@ DCMB MS Student
 
 **Joshua Sodicoff**
 Data Science BS Student
+
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
 **Hengshi Yu**  
