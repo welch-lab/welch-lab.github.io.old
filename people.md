@@ -28,17 +28,17 @@ EECS Ph.D. Candidate
 
 ![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
 
-**Ruohan Liao**
+**Ruohan Liao**<br/>
 Biostatistics MS Student
 
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
-**Jialin Liu**
+**Jialin Liu**<br/>
 DCMB MS Student
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
-**Joshua Sodicoff**
+**Joshua Sodicoff**<br/>
 Data Science BS Student
 
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
