@@ -29,5 +29,9 @@ EECS Ph.D. Student
 
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
+**Joshua Sodicoff**
+
+![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
+
 **Hengshi Yu**  
 Biostatistics Ph.D. Student
