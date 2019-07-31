@@ -25,6 +25,10 @@ EECS Ph.D. Student
 
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
+**Ruohan Liao**
+
+![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
+
 **Jialin Liu**
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
