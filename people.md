@@ -23,6 +23,9 @@ EECS Ph.D. Student
 **Hojae Lee**  
 EECS Ph.D. Student
 
+![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
+**Jialin Liu**
+
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
 **Hengshi Yu**  
