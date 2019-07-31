@@ -27,11 +27,11 @@ EECS Ph.D. Student
 
 **Jialin Liu**
 
-![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
+![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
 **Joshua Sodicoff**
 
-![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
+![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
 
 **Hengshi Yu**  
 Biostatistics Ph.D. Student
