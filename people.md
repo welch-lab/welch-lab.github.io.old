@@ -23,13 +23,13 @@ EECS Ph.D. Student
 **Hojae Lee**  
 EECS Ph.D. Student
 
-![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
-
-**Jialin Liu**
-
 ![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
 
 **Ruohan Liao**
+
+![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
+
+**Jialin Liu**
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
