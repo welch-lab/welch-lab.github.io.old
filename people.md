@@ -18,6 +18,8 @@ Department of Computer Science and Engineering<br/>
 **Yuwei Bao**  
 EECS Ph.D. Student
 
+![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
+
 **Chao Gao**  
 DCMB Ph.D. Student
 
