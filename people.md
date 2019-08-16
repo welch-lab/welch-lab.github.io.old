@@ -43,7 +43,7 @@ DCMB MS Student
 **Joshua Sodicoff**<br/>
 Data Science BS Student
 
-![Hengshi Yu]({{ site.baseurl }}/images/hengshi-yu.jpg)
+![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
 
 **Hengshi Yu**  
 Biostatistics Ph.D. Candidate
