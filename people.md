@@ -12,6 +12,7 @@ permalink: /people/
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
+[CV]({{ site.baseurl }}/CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
