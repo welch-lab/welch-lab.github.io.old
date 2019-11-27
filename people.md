@@ -8,7 +8,7 @@ permalink: /people/
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch.jpg)
 
-**Joshua Welch, Ph.D.**  
+**Joshua D. Welch, Ph.D.**  
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
