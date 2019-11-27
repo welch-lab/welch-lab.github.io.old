@@ -1,4 +1,4 @@
-
+*Personal*
 <p>When not working on research, I enjoy training for triathlons. My favorite thing about triathlons is that swimming, running, and biking provide a nice variety of workouts and a great way to enjoy the outdoors.</p>
 
 ![TriathlonTraining]({{ site.baseurl }}/images/welch-running.jpg)
