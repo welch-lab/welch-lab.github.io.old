@@ -10,5 +10,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3r4Dq_HBws8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>I am married to the lovely Jeanna Welch, and we recently welcomed our first child, Caleb Welch.</p>
-
 ![Welch Family]({{ site.baseurl }}/images/welch-family.jpg)
