@@ -6,23 +6,35 @@ permalink: /people/
 
 ### Lab Members
 
-![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
-
-**Joshua D. Welch, Ph.D.**<br/>
+<div class="border">
+  <div class="col-6 p-2 mx-auto border">
+    **Joshua D. Welch, Ph.D.**<br/>
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
 [CV]({{ site.baseurl }}/CV.pdf) [Personal]({{ site.baseurl }}/personal)
-
-![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
+  </div>
+  <div class="col-6 p-2 mx-auto border">
+    ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
 **Yuwei Bao**  
 EECS Ph.D. Student
-
-![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
+  </div>
+  <div class="col-6 p-2 mx-auto border">
+  ![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
 
 **Chao Gao**  
 DCMB Ph.D. Student
+  </div>
+</div>
+
+![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
+
+
+
+
+
+
 
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
