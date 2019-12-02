@@ -6,7 +6,7 @@ permalink: /people/
 
 ### Lab Members
 
-![Joshua Welch]({{ site.baseurl }}/images/welch.jpg)
+![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
 
 **Joshua D. Welch, Ph.D.**<br/>
 Assistant Professor<br/>
