@@ -1,5 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
-# theme: jekyll-theme-slate 
+theme: jekyll-theme-slate 
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -25,9 +24,8 @@ twitter_username: jekyllrb
 github_username:  welch-lab
  # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 plugins:
-  jekyll-include-c
   - jekyll-feed
  # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
