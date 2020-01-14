@@ -5,6 +5,9 @@ permalink: /people/
 ---
 
 ### Lab Members
+
+The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/postdoctoral-job-posting.pdf)!
+
 ![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
 
 **Joshua D. Welch, Ph.D.**<br/>
