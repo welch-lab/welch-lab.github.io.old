@@ -4,9 +4,9 @@ title: People
 permalink: /people/
 ---
 
-### Lab Members
-
 The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/postdoctoral-job-posting.pdf)!
+
+### Lab Members
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
 
