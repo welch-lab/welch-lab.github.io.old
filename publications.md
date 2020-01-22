@@ -6,7 +6,7 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
-Matsushita Y, Nagata M, Kozloff K, Welch J, Mizuhashi K, Tokavanich N, Hallett S, Link D, Nagasawa T, Ono W, and Ono N. A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration. Nature Communications. 11, 332 (2020). \[[HTML]](https://www.nature.com/articles/s41467-019-14029-w) \[[PDF]](https://www.nature.com/articles/s41467-019-14029-w.pdf)
+Matsushita Y, Nagata M, Kozloff K, Welch J, Mizuhashi K, Tokavanich N, Hallett S, Link D, Nagasawa T, Ono W, and Ono N. A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration. Nature Communications. 11, 332 (2020). \[[HTML](https://www.nature.com/articles/s41467-019-14029-w)\] \[[PDF](https://www.nature.com/articles/s41467-019-14029-w.pdf)\]
 
 Zhou Y, Liu Z, Welch JD, Gao X, Wang L, Garbutt T, Keepers B, Ma H, Prins JF, Shen W, Liu J, Qian L. Single-Cell Transcriptomic Analyses of Cell Fate Transitions during Human Cardiac Reprogramming. Cell Stem Cell. 2019 Jun 12. pii: S1934-5909(19)30224-3. doi: 10.1016/j.stem.2019.05.020. \[[HTML](https://www.sciencedirect.com/science/article/pii/S1934590919302243)\]
 
