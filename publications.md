@@ -6,7 +6,23 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
-Gao C, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD. Iterative Refinement of Cellular Identity from Single-Cell Data Using Online Learning. bioRxiv. https://doi.org/10.1101/2020.01.16.909861. 
+Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, A. Sina Booeshaghi, Ricky S
+Adkins, Andrew I. Aldridge, Seth A. Ament, Antonio Pinto-Duarte, Anna Bartlett, M. Margarita Behrens,
+Koen Van den Berge, Darren Bertagnolli, Tommaso Biancalani, Héctor Corrada Bravo, Tamara Casper,
+Carlo Colantuoni, Heather Creasy, Kirsten Crichton, Megan Crow, Nick Dee, Elizabeth L Dougherty,
+Wayne I. Doyle, Sandrine Dudoit, Rongxin Fang, Victor Felix, Olivia Fong, Michelle Giglio, Jesse Gillis,
+Jeff Goldy, Mike Hawrylycz, Hector Roux de Bézieux, Brian R. Herb, Ronna Hertzano, Xiaomeng Hou,
+Qiwen Hu, Jonathan Crabtree, Jayaram Kancherla, Matthew Kroll, Kanan Lathia, Yang Eric Li, Jacinta
+D. Lucero, Chongyuan Luo, Anup Mahurkar, Delissa McMillen, Naeem Nadaf, Joseph R. Nery,
+Sheng-Yong Niu, Joshua Orvis, Julia K. Osteen, Thanh Pham, Olivier Poirion, Sebastian Preissl,
+Elizabeth Purdom, Christine Rimorin, Davide Risso, Angeline C. Rivkin, Kimberly Smith, Kelly Street,
+Josef Sulc, Thuc Nghi Nguyen, Michael Tieu, Amy Torkelson, Herman Tung, Eeshit Dhaval Vaishnav,
+Valentine Svensson, Charles R. Vanderburg, Vasilis Ntranos, Cindy van Velthoven, Xinxin Wang, Owen
+R. White, Z. Josh Huang, Peter V. Kharchenko, Lior Pachter, John Ngai, Aviv Regev, Bosiljka Tasic,
+Joshua D. Welch, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cell ensus Network
+(BICCN), Hongkui Zeng, Eran A. Mukamel. An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types. bioRxiv. https://doi.org/10.1101/2020.02.29.970558 \[[PDF](https://www.biorxiv.org/content/biorxiv/early/2020/03/02/2020.02.29.970558.full.pdf)\]
+
+Gao C, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD. Iterative Refinement of Cellular Identity from Single-Cell Data Using Online Learning. bioRxiv. https://doi.org/10.1101/2020.01.16.909861. \[[PDF](https://www.biorxiv.org/content/10.1101/2020.01.16.909861v2.full.pdf)\]
 Accepted for presentation at RECOMB 2020.
 
 Matsushita Y, Nagata M, Kozloff K, Welch J, Mizuhashi K, Tokavanich N, Hallett S, Link D, Nagasawa T, Ono W, and Ono N. A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration. Nature Communications. 11, 332 (2020). \[[HTML](https://www.nature.com/articles/s41467-019-14029-w)\] \[[PDF](https://www.nature.com/articles/s41467-019-14029-w.pdf)\]
