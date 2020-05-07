@@ -20,6 +20,11 @@ Department of Computer Science and Engineering<br/>
 
 **Yuwei Bao**  
 EECS Ph.D. Student
+
+![Angel Chu]({{ site.baseurl }}/images/angel_chu.jpg)
+
+**Angel Ka Yan Chu**  
+DCMB MS Student
   
 ![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
 
