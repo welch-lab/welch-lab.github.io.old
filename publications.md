@@ -6,7 +6,7 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
-Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly Defining Cell Types from Multiple Single-Cell Datasets Using LIGER. bioRxiv. https://doi.org/10.1101/2020.04.07.029546 \[[PDF](https://www.biorxiv.org/content/10.1101/2020.04.07.029546v1.full.pdf)\]
+Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly Defining Cell Types from Multiple Single-Cell Datasets Using LIGER. bioRxiv. https://doi.org/10.1101/2020.04.07.029546 \[[PDF](https://www.biorxiv.org/content/10.1101/2020.04.07.029546v1.full.pdf)\] \*Equal contribution
 
 Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, A. Sina Booeshaghi, Ricky S
 Adkins, Andrew I. Aldridge, Seth A. Ament, Antonio Pinto-Duarte, Anna Bartlett, M. Margarita Behrens,
