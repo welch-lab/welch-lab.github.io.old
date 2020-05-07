@@ -26,6 +26,11 @@ EECS Ph.D. Student
 **Chao Gao**  
 DCMB Ph.D. Student
 
+![April Kriebel]({{ site.baseurl }}/images/april_kriebel.png)
+
+**April Kriebel**  
+DCMB Ph.D. Student
+
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
 **Hojae Lee**  
