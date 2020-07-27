@@ -6,6 +6,8 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
 
+Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, Welch JD, Gao C, Liu J, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M. G-CSF Secreted by Epigenetically Reprogrammed Mutant IDH1 Glioma Stem Cells Reverses the Meloid Cells'-Mediated Immunosuppressive Tumor Microenvironment. bioRxiv. https://doi.org/10.1101/2020.07.22.215954 \[[PDF](https://www.biorxiv.org/content/biorxiv/early/2020/07/24/2020.07.22.215954.full.pdf?%3Fcollection=)\]
+
 Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly Defining Cell Types from Multiple Single-Cell Datasets Using LIGER. bioRxiv. https://doi.org/10.1101/2020.04.07.029546 \[[PDF](https://www.biorxiv.org/content/10.1101/2020.04.07.029546v1.full.pdf)\] \*Equal contribution
 
 Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, A. Sina Booeshaghi, Ricky S
