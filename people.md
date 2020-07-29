@@ -29,7 +29,7 @@ DCMB MS Student
 ![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
 
 **Chao Gao**  
-DCMB Ph.D. Student
+DCMB Ph.D. Candidate
 
 ![April Kriebel]({{ site.baseurl }}/images/april_kriebel.png)
 
