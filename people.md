@@ -26,7 +26,7 @@ EECS Ph.D. Student
 **Angel Ka Yan Chu**  
 DCMB MS Student
   
-![Chao Gao]({{ site.baseurl }}/images/chao_gao.jpg)
+![Chao Gao]({{ site.baseurl }}/images/chao_gao_new.jpg)
 
 **Chao Gao**  
 DCMB Ph.D. Candidate
