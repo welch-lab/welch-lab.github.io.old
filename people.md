@@ -41,6 +41,11 @@ DCMB Ph.D. Student
 **Hojae Lee**  
 EECS Ph.D. Candidate
 
+![Chen Li]({{ site.baseurl }}/images/Chen-Li.jpg)
+
+**Chen Li**<br/>
+DCMB Ph.D. Student
+
 ![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
 
 **Ruohan Liao**<br/>
@@ -56,7 +61,12 @@ DCMB MS Student
 **Joshua Sodicoff**<br/>
 Data Science BS Student
 
-![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
+![Lu Lu Wang]({{ site.baseurl }}/images/LuLu-Wang.jpg)
+
+**Lu Lu Wang**<br/>
+DCMB MS Student
 
 **Hengshi Yu**  
 Biostatistics Ph.D. Candidate
+
+![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
