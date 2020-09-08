@@ -14,7 +14,7 @@ The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
-[CV]({{ site.baseurl }}/CV.pdf) [Personal]({{ site.baseurl }}/personal)
+[CV]({{ site.baseurl }}/joshua-welch-CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
 ![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
