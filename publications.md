@@ -8,8 +8,6 @@ permalink: /publicatons/
 
 Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, Welch JD, Gao C, Liu J, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M. G-CSF Secreted by Epigenetically Reprogrammed Mutant IDH1 Glioma Stem Cells Reverses the Meloid Cells'-Mediated Immunosuppressive Tumor Microenvironment. bioRxiv. https://doi.org/10.1101/2020.07.22.215954 \[[PDF](https://www.biorxiv.org/content/biorxiv/early/2020/07/24/2020.07.22.215954.full.pdf?%3Fcollection=)\]
 
-Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly Defining Cell Types from Multiple Single-Cell Datasets Using LIGER. bioRxiv. https://doi.org/10.1101/2020.04.07.029546 \[[PDF](https://www.biorxiv.org/content/10.1101/2020.04.07.029546v1.full.pdf)\] \*Equal contribution
-
 Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, A. Sina Booeshaghi, Ricky S
 Adkins, Andrew I. Aldridge, Seth A. Ament, Antonio Pinto-Duarte, Anna Bartlett, M. Margarita Behrens,
 Koen Van den Berge, Darren Bertagnolli, Tommaso Biancalani, Héctor Corrada Bravo, Tamara Casper,
@@ -28,6 +26,8 @@ Joshua D. Welch, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cel
 
 Gao C, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD. Iterative Refinement of Cellular Identity from Single-Cell Data Using Online Learning. bioRxiv. https://doi.org/10.1101/2020.01.16.909861. \[[PDF](https://www.biorxiv.org/content/10.1101/2020.01.16.909861v2.full.pdf)\]
 Accepted for presentation at RECOMB 2020.
+
+Liu J, Gao C, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly defining cell types from multiple single-cell datasets using LIGER. Nat Protoc (2020). https://doi.org/10.1038/s41596-020-0391-8 \[[PDF](https://rdcu.be/b8pqb)\] \*Equal contribution
 
 Matsushita Y, Nagata M, Kozloff K, Welch J, Mizuhashi K, Tokavanich N, Hallett S, Link D, Nagasawa T, Ono W, and Ono N. A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration. Nature Communications. 11, 332 (2020). \[[HTML](https://www.nature.com/articles/s41467-019-14029-w)\] \[[PDF](https://www.nature.com/articles/s41467-019-14029-w.pdf)\]
 
