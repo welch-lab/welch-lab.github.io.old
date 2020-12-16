@@ -16,11 +16,6 @@ Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
 [CV]({{ site.baseurl }}/joshua-welch-CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
-![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
-
-**Yuwei Bao**  
-EECS Ph.D. Student
-
 ![Angel Chu]({{ site.baseurl }}/images/angel_chu.jpg)
 
 **Angel Ka Yan Chu**  
@@ -54,7 +49,7 @@ Biostatistics MS Student
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
 **Jialin Liu**<br/>
-DCMB MS Student
+DCMB Ph.D. Student
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
