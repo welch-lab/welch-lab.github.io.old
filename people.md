@@ -61,7 +61,7 @@ Data Science BS Student
 **Lu Lu Wang**<br/>
 DCMB MS Student
 
+![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
+
 **Hengshi Yu**  
 Biostatistics Ph.D. Candidate
-
-![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
