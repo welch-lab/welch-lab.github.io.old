@@ -26,6 +26,11 @@ DCMB MS Student
 **Chao Gao**  
 DCMB Ph.D. Candidate
 
+![Yichen Gu]({{ site.baseurl }}/images/YichenGu_Resized.jpg)
+
+**Yichen Gu**  
+EECS Ph.D. Student (joint with David Blaauw)
+
 ![April Kriebel]({{ site.baseurl }}/images/april_kriebel.png)
 
 **April Kriebel**  
