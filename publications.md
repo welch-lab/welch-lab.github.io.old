@@ -6,6 +6,8 @@ permalink: /publicatons/
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]
 
+Kriebal AR, Welch JD. Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features. bioRxiv. \[[HTML](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1)
+
 Matsushita Y, Ka Yan Chu A, Ono W, Welch JD, Ono N. Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow. Journal of Bone and Mineral Research 2021. https://doi.org/10.1002/jbmr.4282 \[[HTML](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4282)\]
 
 Yu H, Welch JD. Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks. Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020. https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1
