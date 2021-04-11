@@ -17,4 +17,10 @@ MATCHER (Manifold Alignment to Characterize Experimental Relationships)
 [https://github.com/jw156605/MATCHER](https://github.com/jw156605/MATCHER)
 
 LIGER (Linked Inference of Genomic Experimental Relationships)  
-[https://github.com/MacoskoLab/liger](https://github.com/MacoskoLab/liger)
+[https://github.com/welch-lab/liger](https://github.com/welch-lab/liger)
+
+MichiGAN (Sampling from Disentangled Representations of Cell Identity using Generative Adversarial Networks)
+[https://github.com/welch-lab/MichiGAN](https://github.com/welch-lab/MichiGAN)
+
+SquiggleNet (Real-Time, Direct Classification of Nanopore Signals)
+[https://github.com/welch-lab/SquiggleNet](https://github.com/welch-lab/SquiggleNet)
