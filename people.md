@@ -16,6 +16,11 @@ Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
 [CV]({{ site.baseurl }}/joshua-welch-CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
+![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
+
+**Maryam Bagherian, Ph.D.**  
+Postdoctoral Researcher
+
 ![Angel Chu]({{ site.baseurl }}/images/angel_chu.jpg)
 
 **Angel Ka Yan Chu**  
