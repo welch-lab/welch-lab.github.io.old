@@ -68,7 +68,7 @@ Data Science BS Student
 
 ![Lu Lu Wang]({{ site.baseurl }}/images/LuLu-Wang.jpg)
 
-**Lu Lu Wang**<br/>
+**Lu Lu**<br/>
 DCMB MS Student
 
 ![Hengshi Yu]({{ site.baseurl }}/images/hengshi_yu.jpg)
