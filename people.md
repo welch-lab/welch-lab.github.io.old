@@ -8,7 +8,7 @@ The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/
 
 ### Lab Members
 
-![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
+![Joshua Welch]({{ site.baseurl }}/images/welch-headshot-new.png)
 
 **Joshua D. Welch, Ph.D.**<br/>
 Assistant Professor<br/>
