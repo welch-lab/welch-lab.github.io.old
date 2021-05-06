@@ -22,7 +22,7 @@ Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, ..., Bosiljka Tasic,
 Joshua D. Welch, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cell Census Network
 (BICCN), Hongkui Zeng, Eran A. Mukamel. An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types. bioRxiv. https://doi.org/10.1101/2020.02.29.970558 \[[PDF](https://www.biorxiv.org/content/biorxiv/early/2020/03/02/2020.02.29.970558.full.pdf)\]
 
-Gao C, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD. Iterative Single-Cell Multi-Omic Integration Using Online Learning. Nature Biotechnology (2021). https://doi.org/10.1038/s41587-021-00867-x \[[HTML](https://www.nature.com/articles/s41587-021-00867-x)\]
+Gao C, Liu J, Kriebel AR, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD. Iterative Single-Cell Multi-Omic Integration Using Online Learning. Nature Biotechnology (2021). https://doi.org/10.1038/s41587-021-00867-x \[[HTML](https://www.nature.com/articles/s41587-021-00867-x)\]
 Also accepted for presentation at RECOMB 2020.
 
 Liu J, Gao C, Sodicoff J, Kozareva V, Macosko EZ, Welch JD. Jointly defining cell types from multiple single-cell datasets using LIGER. Nature Protocols (2020). https://doi.org/10.1038/s41596-020-0391-8 \[[PDF](https://rdcu.be/b8pqb)\] \*Equal contribution
