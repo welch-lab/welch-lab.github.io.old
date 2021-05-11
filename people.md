@@ -51,11 +51,6 @@ EECS Ph.D. Candidate
 **Chen Li**<br/>
 DCMB Ph.D. Student
 
-![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
-
-**Ruohan Liao**<br/>
-Biostatistics MS Student
-
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
 **Jialin Liu**<br/>
@@ -75,3 +70,14 @@ DCMB MS Student
 
 **Hengshi Yu**  
 Biostatistics Ph.D. Candidate
+
+### Alumni
+![Yuwei Bao]({{ site.baseurl }}/images/Yuwei-Bao.jpg)
+
+**Yuwei Bao**<br/>
+Bioinformatics/CSE MS Student, now PhD student at University of Michigan
+
+![Ruohan Liao]({{ site.baseurl }}/images/Ruohan-Liao.jpg)
+
+**Ruohan Liao**<br/>
+Biostatistics MS Student, now PhD student at North Carolina State University
