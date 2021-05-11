@@ -72,7 +72,7 @@ DCMB MS Student
 Biostatistics Ph.D. Candidate
 
 ### Alumni
-![Yuwei Bao]({{ site.baseurl }}/images/Yuwei-Bao.jpg)
+![Yuwei Bao]({{ site.baseurl }}/images/yuwei-bao.jpg)
 
 **Yuwei Bao**<br/>
 Bioinformatics/CSE MS Student, now PhD student at University of Michigan
