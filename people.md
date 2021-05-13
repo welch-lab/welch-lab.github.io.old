@@ -4,8 +4,6 @@ title: People
 permalink: /people/
 ---
 
-The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/postdoctoral-job-posting.pdf)!
-
 ### Lab Members
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch-headshot-new.png)
@@ -14,7 +12,7 @@ The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/
 Assistant Professor<br/>
 Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
-[CV]({{ site.baseurl }}/joshua-welch-CV.pdf) [Personal]({{ site.baseurl }}/personal)
+[CV]({{ site.baseurl }}/JoshuaWelch_CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
 ![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
 
