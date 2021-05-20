@@ -12,7 +12,7 @@ Welch lab members are indicated in **bold**.
 
 Matsushita Y, **Ka Yan Chu A**, Ono W, **Welch JD**, Ono N. Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow. Journal of Bone and Mineral Research 2021. https://doi.org/10.1002/jbmr.4282 \[[HTML](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4282)\]
 
-**Yu H**, **Welch JD**. Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks. Genome Biology 22, 158 (2021). https://doi.org/10.1186/s13059-021-02373-4. Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020. \[[PDF](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02373-4.pdf)\]
+**Yu H**, **Welch JD**. Sampling from disentangled representations of single-cell data using generative adversarial networks. Genome Biology 22, 158 (2021). https://doi.org/10.1186/s13059-021-02373-4. Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020. \[[PDF](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02373-4.pdf)\]
 
 **Bao Y**, **Welch JD**. Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet. bioRxiv. Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
 
