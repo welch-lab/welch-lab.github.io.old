@@ -32,7 +32,7 @@ DCMB Ph.D. Candidate
 ![Yichen Gu]({{ site.baseurl }}/images/YichenGu_Resized.png)
 
 **Yichen Gu**  
-EECS Ph.D. Student (joint with David Blaauw)
+EECS Ph.D. Candidate (joint with David Blaauw)
 
 ![April Kriebel]({{ site.baseurl }}/images/april_kriebel.png)
 
