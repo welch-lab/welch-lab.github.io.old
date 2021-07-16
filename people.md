@@ -37,17 +37,17 @@ DCMB Ph.D. Candidate
 ![Yichen Gu]({{ site.baseurl }}/images/YichenGu_Resized.png)
 
 **Yichen Gu**  
-EECS Ph.D. Candidate (joint with David Blaauw)
+CSE Ph.D. Candidate (joint with David Blaauw)
 
 ![April Kriebel]({{ site.baseurl }}/images/april_kriebel.png)
 
 **April Kriebel**  
-DCMB Ph.D. Student
+DCMB Ph.D. Candidate
 
 ![Hojae Lee]({{ site.baseurl }}/images/hojae-lee.jpg)
 
 **Hojae Lee**  
-EECS Ph.D. Candidate
+ECE Ph.D. Candidate
 
 ![Chen Li]({{ site.baseurl }}/images/Chen-Li.jpg)
 
@@ -57,7 +57,7 @@ DCMB Ph.D. Student
 ![Jialin Liu]({{ site.baseurl }}/images/Jialin-Liu.jpeg)
 
 **Jialin Liu**<br/>
-DCMB Ph.D. Student
+DCMB Ph.D. Candidate
 
 ![Joshua Sodicoff]({{ site.baseurl }}/images/Joshua-Sodicoff.jpg)
 
