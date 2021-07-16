@@ -8,7 +8,7 @@ permalink: /publicatons/
 
 Welch lab members are indicated in **bold**.
 
-Nagata M, **Chu AKY**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press).
+Nagata M, **Ka Yan Chu A**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press).
 
 **Kriebel AR**, **Welch JD**. Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features. bioRxiv. \[[HTML](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1)\]
 
