@@ -26,6 +26,11 @@ DCMB MS Student
   
 ![Chao Gao]({{ site.baseurl }}/images/chao_gao_new.jpg)
 
+![Shreepriya Das, Ph.D.]({{ site.baseurl }}/images/Shree.jpg)
+
+**Shreepriya Das, Ph.D.**  
+Research Scientist
+
 **Chao Gao**  
 DCMB Ph.D. Candidate
 
