@@ -24,7 +24,7 @@ Postdoctoral Researcher
 **Angel Ka Yan Chu**  
 DCMB MS Student
 
-![Shreepriya Das, Ph.D.]({{ site.baseurl }}/images/Shree.jpg)
+![Shreepriya Das, Ph.D.]({{ site.baseurl }}/images/shree.jpg)
 
 **Shreepriya Das, Ph.D.**  
 Research Scientist
