@@ -8,6 +8,8 @@ permalink: /publicatons/
 
 Welch lab members are indicated in **bold**.
 
+Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, **Sodicoff JS**, Stein-O’Brien GL, Subramanian A, **Welch JD**, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E. Community-wide hackathons to identify central themes in single-cell multi-omics. Genome Biol 22, 220 (2021). https://doi.org/10.1186/s13059-021-02433-9.
+
 Nagata M, **Ka Yan Chu A**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press).
 
 **Kriebel AR**, **Welch JD**. Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features. bioRxiv. \[[HTML](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1)\]
