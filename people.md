@@ -8,12 +8,14 @@ permalink: /people/
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch-headshot-new.png)
 
+<div class=".person">
 **Joshua D. Welch, Ph.D.**
 Assistant Professor
 Department of Computational Medicine and Bioinformatics
 Department of Computer Science and Engineering
 [CV]({{ site.baseurl }}/JoshuaWelch_CV.pdf) [Personal]({{ site.baseurl }}/personal)
-
+</div>
+  
 ![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
 
 **Maryam Bagherian, Ph.D.**  
