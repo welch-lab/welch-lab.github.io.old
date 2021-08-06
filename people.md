@@ -8,10 +8,10 @@ permalink: /people/
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch-headshot-new.png)
 
-**Joshua D. Welch, Ph.D.**<br/>
-Assistant Professor<br/>
-Department of Computational Medicine and Bioinformatics<br/>
-Department of Computer Science and Engineering<br/>
+**Joshua D. Welch, Ph.D.**
+Assistant Professor
+Department of Computational Medicine and Bioinformatics
+Department of Computer Science and Engineering
 [CV]({{ site.baseurl }}/JoshuaWelch_CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
 ![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
