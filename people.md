@@ -7,6 +7,7 @@ permalink: /people/
 ### Lab Members
 
 <div class="person">
+  
 ![Joshua Welch]({{ site.baseurl }}/images/welch-headshot-new.png)
 
 **Joshua D. Welch, Ph.D.**
