@@ -14,14 +14,12 @@ Department of Computational Medicine and Bioinformatics<br/>
 Department of Computer Science and Engineering<br/>
 [CV]({{ site.baseurl }}/JoshuaWelch_CV.pdf) [Personal]({{ site.baseurl }}/personal)
 
-<div class="test1">
 ![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
 
 **Maryam Bagherian, Ph.D.**  
 Postdoctoral Researcher
 
 ![Angel Chu]({{ site.baseurl }}/images/angel_chu.jpg)
-  </div>
 
 **Angel Ka Yan Chu**  
 DCMB MS Student
