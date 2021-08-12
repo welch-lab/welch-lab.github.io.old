@@ -12,6 +12,10 @@ Welch lab members are indicated in **bold**.
 
 **Bao Y**, **Welch JD**. Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet. bioRxiv. Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
 
+Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, **Welch JD**, **Gao C**, **Liu J**, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M. G-CSF Secreted by Epigenetically Reprogrammed Mutant IDH1 Glioma Stem Cells Reverses the Meloid Cells’-Mediated Immunosuppressive Tumor Microenvironment. bioRxiv. https://doi.org/10.1101/2020.07.22.215954. Science Advances 2021 (in press).
+
+Braeuer R, Misumi K, Walker N, Mazzoni-Putman S, Aoki Y, Vittal R, Kleer G, **Liao R**, Wheeler D, Farver C, **Welch JD**, Lama V. Transcription factor Foxf1 identifies compartmentally distinct mesenchymal cells with a role in lung allograft fibrogenesis. Journal of Clinical Investigation 2021 (in press)
+
 Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, **Sodicoff JS**, Stein-O’Brien GL, Subramanian A, **Welch JD**, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E. Community-wide hackathons to identify central themes in single-cell multi-omics. Genome Biol 22, 220 (2021). https://doi.org/10.1186/s13059-021-02433-9. \[[HTML](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02433-9)\]
 
 Nagata M, **Ka Yan Chu A**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dental Medicine. 12 August 2021 https://doi.org/10.3389/fdmed.2021.679937 \[[HTML](https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/full)\]
