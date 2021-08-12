@@ -8,7 +8,7 @@ permalink: /publicatons/
 
 Welch lab members are indicated in **bold**.
 
-Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, **Sodicoff JS**, Stein-O’Brien GL, Subramanian A, **Welch JD**, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E. Community-wide hackathons to identify central themes in single-cell multi-omics. Genome Biol 22, 220 (2021). https://doi.org/10.1186/s13059-021-02433-9. \[[HTML](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02433-9)]
+Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, **Sodicoff JS**, Stein-O’Brien GL, Subramanian A, **Welch JD**, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E. Community-wide hackathons to identify central themes in single-cell multi-omics. Genome Biol 22, 220 (2021). https://doi.org/10.1186/s13059-021-02433-9. \[[HTML](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02433-9)\]
 
 Nagata M, **Ka Yan Chu A**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dental Medicine. 12 August 2021 https://doi.org/10.3389/fdmed.2021.679937 \[[HTML] (https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/full)]
 
