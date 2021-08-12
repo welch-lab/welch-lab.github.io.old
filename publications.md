@@ -8,17 +8,17 @@ permalink: /publicatons/
 
 Welch lab members are indicated in **bold**.
 
+**Kriebel AR**, **Welch JD**. Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features. bioRxiv. \[[HTML](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1)\]
+
+**Bao Y**, **Welch JD**. Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet. bioRxiv. Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
+
 Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, **Sodicoff JS**, Stein-O’Brien GL, Subramanian A, **Welch JD**, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E. Community-wide hackathons to identify central themes in single-cell multi-omics. Genome Biol 22, 220 (2021). https://doi.org/10.1186/s13059-021-02433-9. \[[HTML](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02433-9)\]
 
 Nagata M, **Ka Yan Chu A**, Ono N, **Welch JD**, Ono W. Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dental Medicine. 12 August 2021 https://doi.org/10.3389/fdmed.2021.679937 \[[HTML](https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/full)\]
 
-**Kriebel AR**, **Welch JD**. Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features. bioRxiv. \[[HTML](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1)\]
-
 Matsushita Y, **Ka Yan Chu A**, Ono W, **Welch JD**, Ono N. Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow. Journal of Bone and Mineral Research 2021. https://doi.org/10.1002/jbmr.4282 \[[HTML](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4282)\]
 
 **Yu H**, **Welch JD**. Sampling from disentangled representations of single-cell data using generative adversarial networks. Genome Biology 22, 158 (2021). https://doi.org/10.1186/s13059-021-02373-4. Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020. \[[PDF](https://rdcu.be/ck1qO)\]
-
-**Bao Y**, **Welch JD**. Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet. bioRxiv. Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
 
 BRAIN Initiative Cell Census Network (BICCN), Ricky S. Adkins, Andrew I. Aldridge, ..., **Joshua D. Welch**, Owen White, Elora Williams, Fangming Xie, Peng Xie, Feng Xiong, X. William Yang, Anna Marie Yanny, Zizhen Yao, Lulu Yin, Yang Yu, Jing Yuan, Hongkui Zeng, Kun Zhang, Meng Zhang, Zhuzhu Zhang, Sujun Zhao, Xuan Zhao, Jingtian Zhou, Xiaowei Zhuang, Brian Zingg. A multimodal cell census and atlas of the mammalian primary motor cortex. bioRxiv. https://doi.org/10.1101/2020.10.19.343129 \[[PDF](https://www.biorxiv.org/content/10.1101/2020.10.19.343129v1.full.pdf)\]
 
