@@ -12,6 +12,8 @@ Welch lab members are indicated in **bold**.
 
 **Bao Y**, **Welch JD**. Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet. bioRxiv. Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
 
+Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, **Welch JD**\*, Qian L\*, Liu J\*. Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration. EMBO Reports 2021 (in press). \*Co-corresponding
+
 Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, **Welch JD**, **Gao C**, **Liu J**, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M. G-CSF Secreted by Epigenetically Reprogrammed Mutant IDH1 Glioma Stem Cells Reverses the Meloid Cells’-Mediated Immunosuppressive Tumor Microenvironment. bioRxiv. https://doi.org/10.1101/2020.07.22.215954. Science Advances 2021 (in press).
 
 Braeuer R, Misumi K, Walker N, Mazzoni-Putman S, Aoki Y, Vittal R, Kleer G, **Liao R**, Wheeler D, Farver C, **Welch JD**, Lama V. Transcription factor Foxf1 identifies compartmentally distinct mesenchymal cells with a role in lung allograft fibrogenesis. Journal of Clinical Investigation 2021 (in press)
