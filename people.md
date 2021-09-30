@@ -17,7 +17,7 @@ Department of Computer Science and Engineering<br/>
 ![Maryam Bagherian, Ph.D.]({{ site.baseurl }}/images/MaryamBagherian.png)
 
 **Maryam Bagherian, Ph.D.**  
-Postdoctoral Researcher
+Michigan Data Science Fellow
 
 ![Angel Chu]({{ site.baseurl }}/images/angel_chu.jpg)
 
