@@ -30,7 +30,7 @@ BRAIN Initiative Cell Census Network (BICCN), Ricky S. Adkins, Andrew I. Aldridg
 
 Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, ..., Bosiljka Tasic,
 **Joshua D. Welch**, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cell Census Network
-(BICCN), Hongkui Zeng, Eran A. Mukamel. An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types. Nature 598, 103–110 (2021). https://doi.org/10.1101/2020.02.29.970558 \[[PDF](https://www.nature.com/articles/s41586-021-03500-8)\]
+(BICCN), Hongkui Zeng, Eran A. Mukamel. An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types. Nature 598, 103–110 (2021). https://doi.org/10.1101/2020.02.29.970558 \[[PDF](https://www.nature.com/articles/s41586-021-03500-8.pdf)\]
 
 **Gao C**, **Liu J**, **Kriebel AR**, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, **Welch JD**. Iterative Single-Cell Multi-Omic Integration Using Online Learning. Nature Biotechnology (2021). https://doi.org/10.1038/s41587-021-00867-x. Also accepted for presentation at RECOMB 2020. \[[PDF](https://rdcu.be/ciYhs)\]
 
